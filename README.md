@@ -1,1 +1,3 @@
-# my-ci-cd-project
+# CI/CD Project
+
+in this project I'm trying to....
